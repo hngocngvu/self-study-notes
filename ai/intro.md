@@ -10,7 +10,7 @@
 - learning algorithm= meta-program using the dataset to **choose params** 
 
 ## Key components 
-![Training process](image.png)
+![Training process](img/image.png)
 
 1. Data
 - features= input (special: target= output)
