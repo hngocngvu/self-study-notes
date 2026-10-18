@@ -1,5 +1,4 @@
 ## Definition & Constraints
-
 - relational db= collection of info, organizing data into tables
 - SQL= Structured Query Language -> access & manipulate data in relational db
 - constraints in relational db to identify records & link tables:
@@ -17,14 +16,14 @@
 
 ## Characteristics
 
-1. tabular structure
-2. schema-based: pre-defined 
-    + names (relation & attributes)
-    + domains (possible values)
-    + PK, FK
-    + rules (NOT NULL, UNIQUE, DEFAULT, CHECK)
+### 1. tabular structure
+### 2. schema-based: pre-defined 
+- names (relation & attributes)
+- domains (possible values)
+- PK, FK
+- rules (NOT NULL, UNIQUE, DEFAULT, CHECK)
 
-3. ACID
+### 3. ACID
 
 |   |   |   |
 |---|---|---|
