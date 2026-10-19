@@ -65,4 +65,11 @@
 || pure storage solution (object storage)? support complex query patterns?| Volume, Variety, Value|
 || schema flexibility (flexible, schema-agnostic, enforced)|Variety, Variability|
 
+- data access frequency -> retrieval patterns 
+
+|temperature|access frequency|purpose|
+|---|---|---|
+|hot data|most frequently accessed|fast retrieval|
+|lukewarm data| often accessed (every week, month)||
+|cold data| seldom queried| retained for compliance/catastrophic failure|
 
