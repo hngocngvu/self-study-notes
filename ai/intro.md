@@ -36,4 +36,3 @@
 4. Optimization algorithms
 - search for the best params for minimizing loss function
 - popular: gradient descent
-
