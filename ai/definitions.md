@@ -1,14 +1,6 @@
-- sequence-to-sequence learning: input & output= variable-length sequences
+- offline learning= model training using a fixed dataset not updated with new data in real time
 
-- tagging & parsing= annotating a text sequence with attributes
-
-- unsupervised learning: use ML algorithm to analyze & cluster unlabeled datasets -> discover hidden patterns/data grouping
-
-- self-supervised learning: training model using self-labeled data (labels derived from the data itself)
-
-- semi-supervised learning: model training using a small amount of labeled data
-
-- offline learning: 
-
-|sequence-to-sequence|tagging & parsing|unsupervised|self-supervised|semi-supervised|offline|
-|---|---|---|---|---|---|
+|sequence|unsupervised|self-supervised|semi-supervised|
+|---|---|---|---|
+|learn patterns and dependencies in ordered sequences of data|discover hidden patterns/data grouping in unlabeled data|training model using self-labeled data (labels derived from the data)|learn from a small labeled dataset + larger unlabeled dataset|
+|tagging & parsing, automatic speech recognition, text to speech, machine translation|anomaly detection, dimensionality reduction|language model pretraining, masked language modeling, image representation learning|

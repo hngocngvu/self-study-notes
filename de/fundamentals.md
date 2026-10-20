@@ -65,7 +65,7 @@
 || pure storage solution (object storage)? support complex query patterns?| Volume, Variety, Value|
 || schema flexibility (flexible, schema-agnostic, enforced)|Variety, Variability|
 
-- data access frequency -> retrieval patterns 
+- understand data access frequency -> retrieval patterns 
 
 |temperature|access frequency|purpose|
 |---|---|---|
@@ -73,3 +73,23 @@
 |lukewarm data| often accessed (every week, month)||
 |cold data| seldom queried| retained for compliance/catastrophic failure|
 
+## Ingestion
+- represent the most significant bottlenecks:
+    + out-of-control source systems (unresponsive)
+    + providing poor data 
+    + malfunctional data ingestion service
+
+    -> hinder data flow
+
+#### Key considerations
+
+|W's||V's|
+|---|---|---|
+|WHAT?| data use cases, reusability| Value|
+|| data format? downstream storage & transformation system handling ability?| Variety|
+|WHERE?| data destination after ingestion|Value|
+|WHEN?| access frequency| Velocity|
+|HOW?| reliability & availability of data ingesting & generating from the system|Veracity|
+||arriving data volume| Volume|
+||data good enough for immediate downstream use? how long? cause of unusability?| Veracity|
+||streaming source: in-flight data transformation? before reaching destination?|Velocity|

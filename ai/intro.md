@@ -1,4 +1,4 @@
-## Definitions
+## Basic Concepts
 - ML= study of algorithms learning from experience (observational data, environment interactions)
 
 - approach to ML: define a flexible program determining behaviors by params
@@ -9,7 +9,7 @@
 
 - learning algorithm= meta-program using the dataset to **choose params** 
 
-## Key components 
+## Key Components 
 ![Training process](img/training_process.png)
 
 1. Data
