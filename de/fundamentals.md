@@ -99,8 +99,8 @@
 |Batch|Streaming|
 |---|---|
 |process data in large chunks|process data continuously as it arrives|
-|ingest on a pre-determined interval|ingest data continuously as it is produced|
-|inherited latency for downstream consumers|provide data to downstream systems in real time|
+|pre-determined interval ingestion|continuous data ingestion as data is produced|
+|inherited latency for downstream consumers|real time data providing to downstream systems|
 |popular in analytics & ML, legacy systems|more accessible due to storage-compute separation +  event-streaming widespread availability|
 
 #### Key considerations
