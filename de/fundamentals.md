@@ -104,4 +104,17 @@
 |popular in analytics & ML, legacy systems|more accessible due to storage-compute separation +  event-streaming widespread availability|
 
 #### Key considerations
+|W's||V's|
+|---|---|---|
+|HOW?|handling ability of downstream storage systems in real time|Velocity, Volume|
+||time, money, maintenance, downtime, opportunity cost: streaming-first VS batch|Value|
+||reliability & redundancy of streaming pipeline & system if infrastructure fails|Veracity|
+|WHEN?|millisecond real-time ingestion or micro-batch?|Velocity|
+|WHAT?|streaming ingestion use cases & benefits? improvement actions upon batch?|Value|
+||ML model deployment: benefits of online predictions & continuous training|Value|
+|WHICH?|appropriate tools for the use case? manager, costs & trade-offs?||
+|WHERE?|data from live production instance? impact of ingestion process on the source system?||
+
+
+
 
