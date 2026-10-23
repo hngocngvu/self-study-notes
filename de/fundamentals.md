@@ -115,6 +115,12 @@
 |WHICH?|appropriate tools for the use case? manager, costs & trade-offs?||
 |WHERE?|data from live production instance? impact of ingestion process on the source system?||
 
+### Push VS Pull
+
+|Push|Pull|
+|data writing out to a target|retrieving data from the source system|
+
+
 
 
 
