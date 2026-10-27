@@ -9,6 +9,7 @@
 |lower cost, higher satisfaction (frequent feedback & less customer risk)| minimal customer collaboration -> costly changes if not meeting expectations|
 |code defects inform future software design| issues & bugs reported later could have informed an alternative program architecture|
 
+- **Tools**
 ## Product Backlog
 - an ordered list of all work a team could do ranked by value & urgency, continuously refined & used to feed planning
 - build, prioritize & maintain work separately from the active sprint
@@ -18,6 +19,8 @@
 |hold everything the team might do, ordered by priority but not yet promised to any sprint|selected items committed to finishing in a sprint|
 
 - **Importance**: clear priorities, faster planning, less waste, shared visibilities
+
+- **Tools**
 
 ### How to build & core elements
 
@@ -41,7 +44,7 @@
 |Multivariate Testing| multiple elements|
 |Split URL Testing| 2 complete different webpage URLs|
 
+- **Tools**
 ### Process
-
 
 
