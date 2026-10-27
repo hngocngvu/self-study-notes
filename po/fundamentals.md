@@ -23,6 +23,25 @@
 
 |Write clear backlog items| common format: user story: As a **role**, I want **outcome** so that **benefit**|
 |Prioritize the backlog| MoSCoW sort: must-have, should-have, could-have, won't-have|
-|| Effort-value matrix: work VS value|
-||
+|| effort-value matrix: work VS value|
+|| simple top-10 rule & others wait|
+|Epics VS Tasks| epic= big function, task= smaller, sprint-ready |
+|Acceptance criteria| definition of ready for items|
+|Regular refinement session| clarify upcoming items, re-ranks, drop unimportant items|
+
+## A/B Testing (Split Testing)
+- comparing 2 versions of a webpage, app, feature -> find better performance based on user response
+- testing real user behavior -> data-driven decisions
+- A (original) VS B (modified) with 2 groups of users divided randomly 
+
+|Variants||
+|---|---|
+|Simple A/B Testing| 2 versions of a single element (button, headline, ...)
+|A/B/n Testing| 2+ versions of a single element|
+|Multivariate Testing| multiple elements|
+|Split URL Testing| 2 complete different webpage URLs|
+
+### Process
+
+
 
