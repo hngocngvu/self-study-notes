@@ -22,6 +22,16 @@
 
 - **Tools**
 
+|Tool|Function|
+|---|---|
+|Jira| Backlog management, customizable workflows (Scrum/Kanban)|
+|Productboard| turning customer input into ranked work|
+|Aha! Roadmaps| strategy-to-release traceability|
+|Azure DevOps|backlog work near repos & pipelines|
+|Trello|small teams & early-stage products|
+|ClickUp| all-in-one task & product workflow management|
+|Asana|stakeholder coordination around backlog work|
+
 ### How to build & core elements
 
 |Write clear backlog items| common format: user story: As a **role**, I want **outcome** so that **benefit**|
@@ -33,18 +43,45 @@
 |Regular refinement session| clarify upcoming items, re-ranks, drop unimportant items|
 
 ## A/B Testing (Split Testing)
-- comparing 2 versions of a webpage, app, feature -> find better performance based on user response
-- testing real user behavior -> data-driven decisions
-- A (original) VS B (modified) with 2 groups of users divided randomly 
-
-|Variants||
-|---|---|
-|Simple A/B Testing| 2 versions of a single element (button, headline, ...)
-|A/B/n Testing| 2+ versions of a single element|
-|Multivariate Testing| multiple elements|
-|Split URL Testing| 2 complete different webpage URLs|
+- a randomized experiment in which multiple versions of product are shown to different groups simultaneously
+- by a defined metric -> determine the better
 
 - **Tools**
+|Tool|Function|
+|---|---|
+|Optimizely|platform for A/B testing & experimentation|
+|Visual Website Optimizer| tool for conversion optimization & testing|
+|Adobe Target| enterprise tool for testing & personalization|
+|AB Tasty| A/B Testing & user experience optimization|
+|Crazy Egg| provide heatmaps & testing insights|
+|Hotjar| offer heatmaps, recordings, user feedback tools|
+
+- **Metrics**
+
+|Metric|Function|
+|---|---|
+|Conversion Rate| measure percentage of users completing a desired action|
+|Click-Through Rate|show percentage of impressions that result in clicks|
+|Bounce Rate| indicate the percentage of users leaving the page without interacting/visiting another|
+|Average Session Duration| measure average time user spend on a website/app|
+|Revenue Per User| calculate the average revenue generated from each user in a test variation|
+|Exit Rate| show the percentage of users leaving a specific page after visiting it|
+|Engagement Rate| measure how actively users interact with content|
+|Retention Rate| indicate how many users return after 1st visit/interaction|
+
+
 ### Process
+- Define a hypothesis & metric to test against
+- Randomly split your audience into groups, each exposed to a different version
+- Analyze the difference between groups using a statistical framework (Frequentist, Bayesian)
+- Make the decision 
+
+### Targets
+
+||||
+|---|---|---|
+|User-facing product experiences|copy & messaging| headlines, body copy, error messages, tooltips, empty states|
+||visual design elements|colors, typography, imagery, iconography, visual hierarchy|
+||social proof & rust signals|
 
 
