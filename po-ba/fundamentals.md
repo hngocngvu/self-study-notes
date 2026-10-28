@@ -1,3 +1,14 @@
+## SDLC (Software Development Life Cycle)
+
+|Stage||
+|---|---|
+|Analysis|requirement identification, brainstorming & market research|
+|Design|architecture, communication, UI/UX, user workflow|
+|Implementation|code|
+|Testing|test case generation|
+|Deployment||
+|Maintenance||
+
 ## Agile VS Waterfall
 
 | Agile | Waterfall |
@@ -82,6 +93,10 @@
 |---|---|---|
 |User-facing product experiences|copy & messaging| headlines, body copy, error messages, tooltips, empty states|
 ||visual design elements|colors, typography, imagery, iconography, visual hierarchy|
-||social proof & rust signals|
+||social proof & trust signals| different types, formats, and placements of social proof and trust signals at high-stakes points -> take action|
+||calls to action|button text, placement, size, visual weight|
+||forms & data collection|
+
+
 
 
